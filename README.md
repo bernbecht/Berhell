@@ -4,7 +4,7 @@
 I'm Bernardo. Nice to meet you (よろしく) 
 
 - Web full-stacker
-- Mobiled enthusiast 
+- Mobile dev enthusiast 
 - UI/UX design 
 - Pixel artist wannabe 👾 
 - Gamer 🕹
