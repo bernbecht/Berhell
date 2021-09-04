@@ -12,4 +12,6 @@ I'm Bernardo. Nice to meet you (よろしく)
 ````
 <br/>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/bbechtold/)[<img src = "https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=Mail.Ru&logoColor=white%22">](mailto:hi.bern@hotmail.com)[<img src = "https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://www.instagram.com/Berhell/) 
+[<img src="https://img.shields.io/badge/linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=560bad" />](https://www.linkedin.com/in/bbechtold/)
+[<img src = "https://img.shields.io/badge/Say Hi-000000?style=for-the-badge&logo=Mail.Ru&logoColor=560bad">](mailto:hi.bern@hotmail.com)
+[<img src = "https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=560bad">](https://codesandbox.io/u/Berhell)
