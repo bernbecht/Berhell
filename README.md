@@ -4,11 +4,11 @@
 I'm Bernardo.
 Nice to meet you (よろしく) 
 
-- 🧑‍💻 Web full-stacker
-- 📱 Mobile dev enthusiast 
-- 👨‍🎨 UI/UX design 
-- 👾 Pixel artist wannabe  
-- 🪴 Plant dad 
+🧑‍💻 Web full-stacker
+📱 Mobile dev enthusiast 
+👨‍🎨 UI/UX design 
+👾 Pixel artist wannabe  
+🪴 Plant dad 
 ````
 <br/>
 
