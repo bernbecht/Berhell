@@ -10,7 +10,7 @@ Nice to meet you (よろしく)
 🪴 Plant dad 
 ````
 <br/>
-
+<!-- 
 [<img src="https://img.shields.io/badge/linkedin-000000?&style=for-the-badge&logo=linkedin&logoColor=560bad" />](https://www.linkedin.com/in/bbechtold/)
 [<img src = "https://img.shields.io/badge/Say Hi-000000?style=for-the-badge&logo=Mail.Ru&logoColor=560bad">](mailto:hi.bern@hotmail.com)
-[<img src = "https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=560bad">](https://codesandbox.io/u/Berhell)
+[<img src = "https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=560bad">](https://codesandbox.io/u/Berhell) -->
